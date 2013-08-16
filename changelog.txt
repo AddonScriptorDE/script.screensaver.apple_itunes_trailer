@@ -12,3 +12,7 @@
 - Some small improvements
 1.0.6
 - Added setting to force volume
+1.0.8
+- Added content cache
+1.0.9
+- Fixed bug when exiting screensaver
